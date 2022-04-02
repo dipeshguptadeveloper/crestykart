@@ -31,7 +31,7 @@ html {
 }
 
 html::-webkit-scrollbar {
-  width: .8rem;
+  width: 0.8rem;
 }
 
 html::-webkit-scrollbar-track {
@@ -81,6 +81,10 @@ section:nth-child(even) {
   background: var(--orange);
   letter-spacing: 0.1rem;
 }
+
+/* --------------------------------------------------------------------------------------------------------------------------
+----------------------------------*/
+
 
 header {
   position: fixed;
